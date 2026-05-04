@@ -10,6 +10,12 @@ I'm a **Frontend Developer & Cinematic Web Architect** dedicated to bridging the
 - **Core:** HTML5, CSS, JavaScript 
 - **Animation:** GSAP (ScrollTrigger), Motion Design
 
+### 🌐 Languages:
+- **Hungarian:** Native 🇭🇺
+- **English:** Intermediate 🇬🇧
+- **Romanian:** Intermediate (strong comprehension, limited speaking) 🇷🇴
+- **Russian:** Learning with passion (Goal: Native fluency) 🇷🇺
+
 ### 📫 Connect with me:
 - **Email:** krisztina.dev1@gmail.com
 - **Availability:** Open for remote collaborations on high-impact digital projects.
