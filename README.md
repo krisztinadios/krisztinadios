@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Krisztina.
 
-<!--
-**krisztinadios/krisztinadios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer & Cinematic Web Architect** dedicated to bridging the gap between high-end cinematography and interactive web experiences.
 
-Here are some ideas to get you started:
+### 🛠️ Current Focus:
+- **Project TT63**: Developing a Rockstar Games-inspired cinematic landing page using **GSAP** and scroll-driven video technology.
+- **AI-Enhanced Workflows**: Optimizing 8K AI-upscaled assets for seamless web performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Tech Stack:
+- **Core:** HTML5, CSS, JavaScript 
+- **Animation:** GSAP (ScrollTrigger), Motion Design
+
+### 📫 Connect with me:
+- **Email:** krisztina.dev1@gmail.com
+- **Availability:** Open for remote collaborations on high-impact digital projects.
+
+---
+*"The Future is High-Definition."*
