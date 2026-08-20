@@ -11,11 +11,6 @@
 * 🇬🇧 English: Intermediate
 * 🇷🇴 Romanian: Intermediate
 
-### 🌐 Languages:
-- **Hungarian:** Native  🇭🇺
-- **English:** Intermediate  🇬🇧
-- **Romanian:** Intermediate (strong comprehension, limited speaking)  🇷🇴
-
 ### 📫 Connect with me:
 - **Email:** krisztina.dev1@gmail.com
 - **Availability:** Open for remote collaborations on high-impact digital projects.
